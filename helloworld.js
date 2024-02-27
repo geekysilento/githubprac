@@ -7,4 +7,4 @@ function add(numberr1, number2) {
 }
 
 let result = add(3, 5);
-console.log("The result is: " + reslut);
+console.log("The result is: " + resut);
